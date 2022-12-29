@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.shape.Rectangle?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="200.0" prefWidth="564.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <HBox alignment="CENTER" layoutX="10.0" layoutY="42.0" prefHeight="117.0" prefWidth="544.0" AnchorPane.bottomAnchor="42.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="42.0">
+         <children>
+            <Rectangle fx:id="c" arcHeight="5.0" arcWidth="5.0" fill="#dfdfdf" height="116.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="45.0">
+               <HBox.margin>
+                  <Insets right="5.0" />
+               </HBox.margin>
+            </Rectangle>
+            <Rectangle fx:id="d" arcHeight="5.0" arcWidth="5.0" fill="#dfdfdf" height="116.0" layoutX="10.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="45.0">
+               <HBox.margin>
+                  <Insets right="5.0" />
+               </HBox.margin>
+            </Rectangle>
+            <Rectangle fx:id="e" arcHeight="5.0" arcWidth="5.0" fill="#dfdfdf" height="116.0" layoutX="60.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="45.0">
+               <HBox.margin>
+                  <Insets right="5.0" />
+               </HBox.margin>
+            </Rectangle>
+            <Rectangle fx:id="f" arcHeight="5.0" arcWidth="5.0" fill="#dfdfdf" height="116.0" layoutX="111.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="45.0">
+               <HBox.margin>
+                  <Insets right="5.0" />
+               </HBox.margin>
+            </Rectangle>
+            <Rectangle fx:id="g" arcHeight="5.0" arcWidth="5.0" fill="#dfdfdf" height="116.0" layoutX="161.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="45.0">
+               <HBox.margin>
+                  <Insets right="5.0" />
+               </HBox.margin>
+            </Rectangle>
+            <Rectangle fx:id="a" arcHeight="5.0" arcWidth="5.0" fill="#dfdfdf" height="116.0" layoutX="212.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="45.0">
+               <HBox.margin>
+                  <Insets right="5.0" />
+               </HBox.margin>
+            </Rectangle>
+            <Rectangle fx:id="b" arcHeight="5.0" arcWidth="5.0" fill="#dfdfdf" height="116.0" layoutX="257.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="45.0">
+               <HBox.margin>
+                  <Insets right="5.0" />
+               </HBox.margin>
+            </Rectangle>
+         </children>
+      </HBox>
+      <HBox alignment="CENTER" layoutX="10.0" layoutY="42.0" prefHeight="58.0" prefWidth="544.0" AnchorPane.bottomAnchor="87.6" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="42.0">
+         <children>
+            <Rectangle fx:id="cD" arcHeight="5.0" arcWidth="5.0" fill="#4e4e4e" height="70.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="45.0">
+               <HBox.margin>
+                  <Insets right="5.0" />
+               </HBox.margin>
+            </Rectangle>
+            <Rectangle fx:id="dD" arcHeight="5.0" arcWidth="5.0" fill="#4e4e4e" height="70.0" layoutX="10.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="45.0">
+               <HBox.margin>
+                  <Insets right="5.0" />
+               </HBox.margin>
+            </Rectangle>
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#dedede00" height="70.0" layoutX="60.0" layoutY="10.0" stroke="TRANSPARENT" strokeType="INSIDE" strokeWidth="0.0" width="45.0">
+               <HBox.margin>
+                  <Insets right="5.0" />
+               </HBox.margin>
+            </Rectangle>
+            <Rectangle fx:id="fD" arcHeight="5.0" arcWidth="5.0" fill="#4e4e4e" height="70.0" layoutX="161.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="45.0">
+               <HBox.margin>
+                  <Insets right="5.0" />
+               </HBox.margin>
+            </Rectangle>
+            <Rectangle fx:id="gD" arcHeight="5.0" arcWidth="5.0" fill="#4e4e4e" height="70.0" layoutX="212.0" layoutY="10.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="45.0">
+               <HBox.margin>
+                  <Insets right="5.0" />
+               </HBox.margin>
+            </Rectangle>
+            <Rectangle fx:id="aD" arcHeight="5.0" arcWidth="5.0" fill="#4e4e4e" height="70.0" layoutX="228.0" layoutY="12.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="45.0" />
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>
